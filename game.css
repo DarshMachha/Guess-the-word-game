@@ -1,0 +1,67 @@
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.div1{
+	background-color:white;
+	float: none;
+	padding:20px ;
+	border-radius: 20px;
+}
+
+.page1{
+background-image:url("https://img.freepik.com/free-vector/abstract-background-consisting-colorful-arcs-illustration_456031-149.jpg");
+background-size: cover;
+background-position: fixed;
+
+}
+
+h1{
+	color: white;
+}
+
+.background{
+	background-image: url("https://img.freepik.com/free-vector/abstract-business-professional-background-banner-design-multipurpose_1340-16858.jpg");
+background-size: cover;
+background-position: fixed;
+
+}
+
+#player1,#player2{
+	color: white;
+	display: inline-block;
+}
+
+#playersc1,#playersc2{
+	color: white;
+	font-size: 24px;
+}
+
+#question,#answer{
+color: white;
+}
+
+label{
+	color: white;
+	font-size: 22px;
+}
